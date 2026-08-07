@@ -20,19 +20,6 @@ A modern and interactive **CGPA Calculator** built with **Python** and **Streaml
 
 ---
 
-## 📸 Preview
-
-> *(Add screenshots of your application here after deployment.)*
-
-### Dashboard
-
-![Dashboard Screenshot](images/dashboard.png)
-
-### Analytics
-
-![Analytics Screenshot](images/analytics.png)
-
----
 
 ## 🚀 Tech Stack
 
