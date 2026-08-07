@@ -179,3 +179,10 @@ If you found this project useful, don't forget to **star** this repository.
 - LinkedIn: www.linkedin.com/in/koushal-vaswani-56dg65
 
 ---
+
+## 🌐 Live Demo
+
+🚀 **Try the application here:**  
+👉 **[https://your-streamlit-app-url.streamlit.app](https://cgpa-calculator-kv96.streamlit.app/)**
+
+No installation required. Simply open the link and start calculating your CGPA instantly.
