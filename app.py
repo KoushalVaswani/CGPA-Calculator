@@ -39,12 +39,13 @@ for i in range(num_semesters):
     col1, col2 = st.columns([4, 2])
 
     with col1:
-        sgpa = st.slider(
+        sgpa = st.number_input(
             f"Semester {i+1} SGPA",
             min_value=0.0,
             max_value=10.0,
             value=8.0,
             step=0.01,
+            format="%.2f",
             key=i
         )
 
