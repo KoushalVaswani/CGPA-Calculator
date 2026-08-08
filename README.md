@@ -7,7 +7,7 @@ A modern and interactive **CGPA Calculator** built with **Python** and **Streaml
 ## ✨ Features
 
 - 🎯 Dynamic Semester Selection
-- 🎚️ SGPA Input using Interactive Sliders
+- 🎚️ SGPA Input
 - 📊 Automatic CGPA Calculation
 - 📈 Percentage Calculation
 - 🏆 Highest SGPA Detection
