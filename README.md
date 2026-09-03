@@ -1,6 +1,6 @@
 # 🎓 CGPA Calculator
 
-A modern and interactive **CGPA Calculator** built with **Python** and **Streamlit** that helps students calculate their overall CGPA, percentage, and visualize their academic performance through interactive charts.
+A modern and interactive **CGPA Calculator** built with **Python** and **Streamlit** that helps students calculate their overall CGPA, percentage, and visualize their academic performance through interactive charts...
 
 ---
 
